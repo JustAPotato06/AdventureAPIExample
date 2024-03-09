@@ -1,0 +1,10 @@
+name: AdventureAPIExample
+version: '${version}'
+main: dev.potato.adventureapiexample.AdventureAPIExample
+api-version: '1.20'
+commands:
+  potato:
+    description: Potato.
+    usage: /potato
+    aliases:
+      - p
